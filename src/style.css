@@ -1,0 +1,52 @@
+.container {
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  justify-content: center;
+}
+
+.calculator {
+  width: 500px;
+  margin: auto;
+  padding: 10px;
+}
+
+.display {
+  width: 480px;
+  height: 50px;
+  background-color: rgb(42, 42, 42);
+  border-radius: 5px;
+  color: #fff;
+  position: relative;
+}
+
+.display > p {
+  font-size: 24px;
+  right: 0;
+  margin: 0;
+  position: absolute;
+  padding: 10px 10px 5px 0;
+}
+
+.btn {
+  background-color: rgb(243, 243, 243);
+  width: 120px;
+  height: 50px;
+  border-right: 1px solid rgb(255, 255, 255);
+  border-top: none;
+  border-bottom: none;
+  border-left: none;
+  font-size: 24px;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 5px;
+  outline: none;
+}
+
+.sign-btn {
+  background-color: orange;
+}
+
+.zero {
+  width: 240px;
+}
