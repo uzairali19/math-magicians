@@ -20,7 +20,8 @@
       "import/no-unresolved": "off",
       "no-shadow": "off",
       "comma-dangle":"off",
-      "react/jsx-one-expression-per-line": "off"
+      "react/jsx-one-expression-per-line": "off",
+      "arrow-body-style": "off"
     },
     "ignorePatterns": [
       "dist/",

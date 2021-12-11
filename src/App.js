@@ -1,7 +1,9 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import Calculator from './components/Calculator';
+import Home from './components/Home';
 import MainHeader from './components/Navbar';
+import Quote from './components/Quote';
 import './style.css';
 
 class App extends React.Component {
@@ -22,7 +24,9 @@ class App extends React.Component {
         </div>
 
         <Routes>
-          <Route path="/" element={<Calculator />} />
+          <Route path="/" element={<Home />} />
+          <Route path="/calculator" element={<Calculator />} />
+          <Route path="/quote" element={<Quote />} />
         </Routes>
       </div>
     );

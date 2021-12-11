@@ -63,3 +63,35 @@ body {
   justify-self: flex-end;
   margin-left: auto;
 }
+
+.header {
+  display: flex;
+  margin-left: auto;
+}
+
+.list {
+  display: flex;
+  list-style: none;
+  gap: 10px;
+  font-size: 20px;
+}
+
+.list > li {
+  border-right: 1px solid #000;
+  padding-right: 10px;
+  line-height: 15px;
+}
+
+.list a {
+  text-decoration: none;
+  color: #000;
+  cursor: pointer;
+}
+
+.list a:hover {
+  color: rgb(131, 131, 131);
+}
+
+.center-quote {
+  text-align: center;
+}
