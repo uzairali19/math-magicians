@@ -54,3 +54,12 @@ body {
 .zero {
   width: 240px;
 }
+
+.nav-flex {
+  display: flex;
+}
+
+.nav-item {
+  justify-self: flex-end;
+  margin-left: auto;
+}
