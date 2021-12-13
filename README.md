@@ -5,6 +5,9 @@
 >This project contains a calculator. Just like a usual calculator the user can input a value, choose an operator and perform the operation.
 
 ![React Calculator](./screenshot.png)
+![React Calculator](./screenshot2.png)
+![React Calculator](./screenshot1.png)
+
 
 # Live Versions
 
