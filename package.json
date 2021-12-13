@@ -15,6 +15,7 @@
     "react-scripts": "^4.0.3",
     "rsuite": "^5.3.0",
     "eslint-config-airbnb": "^18.2.1",
+    "@babel/eslint-parser": "^7.16.3",
     "shortid": "^2.2.16"
   },
   "scripts": {
@@ -42,7 +43,6 @@
   },
   "devDependencies": {
     "@babel/core": "^7.16.0",
-    "@babel/eslint-parser": "^7.16.3",
     "@babel/plugin-syntax-jsx": "^7.16.0",
     "@babel/preset-react": "^7.16.0",
     "eslint": "^7.32.0",
