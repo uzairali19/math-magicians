@@ -6,6 +6,12 @@
 
 ![React Calculator](./screenshot.png)
 
+# Live Versions
+
+[Netlify](https://61b725961fc60bdd0f32a367--brave-bartik-a4b1c4.netlify.app/)
+
+[Heroku](https://math-magicians-uzair.herokuapp.com/)
+
 ## Built With
 
 - React
