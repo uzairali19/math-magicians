@@ -2,7 +2,7 @@
 
 # React Calculator
 
->This project contains a calculator. Just like a usual calculator the user can input a value, choose an operator and perform the operation.
+>This project contains a calculator. Just like a usual calculator the user can input a value, choose an operator and perform the operation. The project also includes the use of React Router Dom, this transforms it in a SPA(single page application) using router.
 
 ![React Calculator](./screenshot.png)
 ![React Calculator](./screenshot2.png)
